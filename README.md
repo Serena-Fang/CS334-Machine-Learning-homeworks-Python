@@ -21,5 +21,3 @@ HW4: Perceptron to classify Spam and Ham Emails
 HW5: PCA and Random Forest for wine quality feature selection
 ![roc](https://user-images.githubusercontent.com/73702692/144116787-9de51c6c-135a-4040-bf3c-f99fd0d9a8f8.png)
 ![nest](https://user-images.githubusercontent.com/73702692/144116809-3d0d3836-58a0-465d-89d6-05616ab47393.png)
-![Depth_Leaf](https://user-images.githubusercontent.com/73702692/144116824-411c4814-fac8-4b50-ac98-27c91f43541c.png)
-![maxFeat](https://user-images.githubusercontent.com/73702692/144116843-0d5da842-1e88-403b-ab35-833d1e354039.png)
